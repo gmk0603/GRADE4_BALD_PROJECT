@@ -7,7 +7,7 @@
 ## week 2 -> corneous2.ipynb, dandruff2.ipynb
 1. Learning and checking graphs and confusion matrices using deep learning models provided by Keras
 
-VGG16, ResNet50, InceptionV3, Xception
+   Models offered by Keras: VGG16, ResNet50, InceptionV3, Xception
 
 ## week 3 -> corneous3.ipynb, dandruff3.ipynb
 1. Image proliferation using ImageDataGenerator class
