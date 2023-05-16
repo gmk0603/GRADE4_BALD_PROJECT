@@ -13,3 +13,5 @@
 1. Image proliferation using ImageDataGenerator class
 
 2. Model training using proliferated image data
+
+3. Improve accuracy: Up to about 70 percent
