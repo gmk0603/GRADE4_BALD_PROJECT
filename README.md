@@ -27,3 +27,6 @@
 2. Improve accuracy: Up to about 60~65 percent
 
 ## week 6 -> 
+1. Using Uclid Distance
+
+2. Improve accuracy: 
