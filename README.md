@@ -9,9 +9,21 @@
 
    Models offered by Keras: VGG16, ResNet50, InceptionV3, Xception
 
-## week 3 -> corneous3.ipynb, dandruff3.ipynb
+## week 3 -> accimprove10.ipynb, accimprove11.ipynb -> corneous
 1. Image proliferation using ImageDataGenerator class
 
 2. Model training using proliferated image data
 
 3. Improve accuracy: Up to about 70 percent
+
+## week 4 -> accimprove18.ipynb
+1. Using kernel_regularizer to Improve accuracy
+
+2. Improve accuracy: Down to about 50~57 percent
+
+## week 5 -> smote_image5000_epoch30.ipynb, smote_image5000_epoch50.ipynb, smote_image5000_epoch10.ipynb
+1. Using smote to oversmapling image and Improve accuracy
+
+2. Improve accuracy: Up to about 60~65 percent
+
+## week 6 -> 
