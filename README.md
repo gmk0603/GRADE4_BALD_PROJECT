@@ -22,11 +22,10 @@
 2. Improve accuracy: Down to about 50~57 percent
 
 ## week 5 -> smote_image5000_epoch30.ipynb, smote_image5000_epoch50.ipynb, smote_image5000_epoch10.ipynb
-1. Using smote to oversmapling image and Improve accuracy
+1. Using smote to oversampling image and Improve accuracy
 
 2. Improve accuracy: Up to about 60~65 percent
 
-## week 6 -> 
-1. Using Uclid Distance
-
-2. Improve accuracy: 
+## week 6 -> dandruff.ipynb, corneous.ipynb, erythema&follicles.ipynb, Hairloss.ipynb, sebum.ipynb
+1. Using Uclid Distance, smote oversampling image(16000 or 20000 images in total), Unfreeze layer(trainable=true)
+2. Improve accuracy: Up to about 90~93 percent
